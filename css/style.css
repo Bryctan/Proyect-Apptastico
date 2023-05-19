@@ -576,6 +576,7 @@ footer {
 
     .commit {
         flex-wrap: wrap;
+        justify-content: center;
     }
 
     .contenedor {
