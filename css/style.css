@@ -543,6 +543,7 @@ footer {
 
     header {
         flex-wrap: wrap;
+        flex-direction: column;
     }
 
     .marcas img {
