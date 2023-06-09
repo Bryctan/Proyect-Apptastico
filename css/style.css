@@ -301,6 +301,7 @@ h3 img {
 .divseparador {
     display: flex;
     padding: 0px 0px 60px 0px;
+    gap: 15px;
 }
 
 .commit {
@@ -421,6 +422,10 @@ footer {
         min-width: 993px;
     }
 
+
+    .divseparador {
+        gap: 0px;
+    }
 
     .imagen img {
         width: 192px;
